@@ -1,0 +1,13 @@
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\bin\Release\Easy2FA.exe.config
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\bin\Release\Easy2FA.exe
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\bin\Release\Easy2FA.pdb
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\bin\Release\Newtonsoft.Json.dll
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\bin\Release\Newtonsoft.Json.xml
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.csprojAssemblyReference.cache
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.MainForm.resources
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.Properties.Resources.resources
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.csproj.GenerateResource.cache
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.csproj.CoreCompileInputs.cache
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.csproj.CopyComplete
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.exe
+C:\Users\jose gonzalez\source\repos\Easy2FA\Easy2FA\obj\Release\Easy2FA.pdb
